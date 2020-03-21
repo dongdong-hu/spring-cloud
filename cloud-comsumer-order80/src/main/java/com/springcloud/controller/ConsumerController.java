@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 @RestController
 public class ConsumerController {
-    public final  static String URL = "http://localhost:8001";
+    public final  static String URL = "http://cloud-payment-service";
     @Autowired
     private RestTemplate restTemplate;
 

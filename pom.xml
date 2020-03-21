@@ -12,6 +12,7 @@
     <module>cloud-comsumer-order80</module>
       <module>clound-api-commons</module>
       <module>cloud-eureka-server7001</module>
+      <module>cloud-eureka-server7002</module>
   </modules>
   <packaging>pom</packaging>
 

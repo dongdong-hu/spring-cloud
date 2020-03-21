@@ -12,3 +12,9 @@ spring:
 mybatis:
   mapperLocations: classpath:/mapper/*.xml
   type-aliases-package: com.springcloud.entities
+eureka:
+  client:
+    register-with-eureka: true  #false表示不向注册中心注册自己
+    fetch-registry: true  #false表示自己端就是注册中心
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
