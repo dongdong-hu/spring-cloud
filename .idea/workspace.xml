@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8074ead8-3997-47b6-99c7-c35766fe2b33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/springcloud/EurekaMain7001.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <workItem from="1584754129436" duration="9603000" />
       <workItem from="1584767028784" duration="103000" />
       <workItem from="1584767161379" duration="9457000" />
-      <workItem from="1584777161327" duration="10312000" />
+      <workItem from="1584777161327" duration="11279000" />
     </task>
     <servers />
   </component>
